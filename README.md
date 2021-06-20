@@ -6,3 +6,6 @@ Add the script to your scene, it will replace 2 built-in shaders to insert the d
 Works on Directional, Point and Spot Lights!
 
 ![alt text](https://s17.postimg.cc/y051irk2n/dithered.jpg)
+
+##
+No works on URP
