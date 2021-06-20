@@ -79,7 +79,7 @@ public class DitheredShadows : MonoBehaviour {
 
 	void Update ()
 	{
-		UpdateShaders();
+		//UpdateShaders();
 	}
 	private void OnDisable()
 	{
